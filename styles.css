@@ -1,0 +1,50 @@
+div#content div.qepi{
+	
+}
+
+nav.menue ul li.r{
+	display: inline-block;
+	list-style-type: none;
+
+}
+
+nav.menue ul li.r a {
+	color: white;
+	background-color: red;
+	text-decoration: none;
+	padding: 10px;
+	border: darkred;
+}
+
+nav.menue ul li.r:hover a{
+	color: red;
+	background-color: black;
+	transition: 1s all;
+	padding-left: 20px;
+}
+
+h3.bvn{
+    color: #fff;
+    padding-left: 100px;
+    padding-top: 100px;
+    padding-right: 100px;
+    font-size: 24px;
+}
+
+body{
+	background:  url(https://www.pagesjaunes.fr/media/ugc/parc_du_bois_joli_06030900_133405295) no-repeat;
+	background-size: 100%;
+}
+button{
+	color: #fff;
+	background-color: #E43403;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+h2.titre{
+	color: #8C00FE;
+	font-size: 50px;
+	padding-left: 250px;
+	padding-right: 200px;
+
